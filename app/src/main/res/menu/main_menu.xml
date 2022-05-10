@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.testerapp.MainActivity">
+
+    <group>
+        <item
+            android:id="@+id/how_to_use"
+            android:title="How To Use" />
+        <item
+            android:id="@+id/about"
+            android:title="About" />
+    </group>
+</menu>
